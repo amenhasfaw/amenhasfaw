@@ -30,31 +30,5 @@
     <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
 </p>
 
-
-<br/>
-
-<p align="center">
-    <a href="https://github.com/amenhasfaw/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Amen Asfaw's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=amenhasfaw&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
-
-## 📊 My Github Stats
-
-  <br/>
-    <a href="https://github.com/amenhasfaw/github-readme-stats"><img alt="Amen Asfaw's Github Stats" src="https://github-readme-stats.vercel.app/api?username=amenhasfaw&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/amenhasfaw/github-readme-stats"><img alt="Amen Asfaw's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amenhasfaw&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-
-<br/>
-<br/>
-
-<a href="https://github.com/amenhasfaw/github-readme-activity-graph"><img alt="Amen Asfaw's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=amenhasfaw&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/>
-
 ## LinkedIn:
 <a href = "https://www.linkedin.com/in/amen-asfaw-43b998227"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
