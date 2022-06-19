@@ -1,5 +1,6 @@
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Amen</h1>
+
+<h1 align="center">Hi , I'm Amen</h1>
 <h5 align="center">ALWAYS LEARNING.</h5>
 
 </br>
