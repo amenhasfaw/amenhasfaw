@@ -7,9 +7,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently a student at **Jain University.**
+- 🔭 Student at **Jain University.**
 
-- 🌱 I’m currently learning **Computer Science Spec. in Data Science.**
+- 🌱 Studying **Computer Science Spec. in Data Science.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
