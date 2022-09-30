@@ -33,6 +33,7 @@
     <a href="https://numpy.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/numpy.png"/> </a>
     <a href="https://www.tableau.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/tableau-software.png"/> </a>
     <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://img.icons8.com/ios/50/000000/django.png"/> </a>
+    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> </a>
     
     
 </p>
