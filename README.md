@@ -1,7 +1,6 @@
 
 
 <h1 align="center">Hi , I'm Amen</h1>
-<h5 align="center">ALWAYS LEARNING.</h5>
 
 </br>
 
@@ -15,7 +14,6 @@
 
 - 📫 How to reach me **amenfrlc@gmail.com**
 
-- ⚡ Fun fact **I am a huge UFC/MMA aficionado**
 
 ## 🚀 Languages and Tools:
 
