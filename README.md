@@ -10,8 +10,6 @@
 
 - 🌱 Studying **Computer Science Spec. in Data Science.**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
-
 - 📫 How to reach me **amenfrlc@gmail.com**
 
 
